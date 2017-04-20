@@ -32,4 +32,5 @@ Notes
 熟悉并记住Python中的常用符号，通过阅读python代码深化理解，然后再自己编写代码。
 ex37_read_codes里面是在网上找到的一些示例。
 ### Symbols
-    (https://learnpythonthehardway.org/book/ex37.html)<br />
+  [here:](https://learnpythonthehardway.org/book/ex37.html)
+<br />
