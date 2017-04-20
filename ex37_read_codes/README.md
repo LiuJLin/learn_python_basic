@@ -29,7 +29,7 @@
 ### Tips：
 1. python3不再有urllib2，取而代之的是urllib.request，因此将在Python2中使用urllib2的全部替代为urllib.request即可
 2. from BeautifulSoup import BeautifulSoup 总是会出错，替换为from bs4 import BeautifulSoup即可
-### error:
+### error:  尚未解决 :(
     "Traceback (most recent call last):
     File ".\Command_line_IMDB_Scraper.py", line 29, in <module>
     response = json.load(urllib.request.urlopen(request))
