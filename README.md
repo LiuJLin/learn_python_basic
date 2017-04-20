@@ -1,6 +1,6 @@
 # learn_python_basic
 ==============================
-通过https://learnpythonthehardway.org/ 从零学习
+    通过https://learnpythonthehardway.org/ 从零学习
 
 
 Notes
@@ -13,12 +13,13 @@ Notes
 ![Map of the game](https://github.com/LiuJLin/learn_python_basic/blob/master/MakeChoice_ex35.png?raw=true)    
 
 ##  ex36.py
-###  Tips of if-statements
+###  Tips for if-statements
     1. 每个if 都配有一个 else
-    2. 如果这个else由于没有实质意义而本应从不运行，那么你应该在该else下使用一个die函数，打印出错误提示并die（结束程序运行），类似于上个例子中的dead函数。
+    2. 如果这个else由于没有实质意义而本应从不运行，那么你应该在该else下使用一个die函数，
+       打印出错误提示并die（结束程序运行），类似于上个例子中的dead函数。
     3. 不要使用if-statements嵌套两层以上，尽量不要嵌套，而仅用一层
 
-### Tips of Loops
+### Tips for Loops
     1. 在python中，仅将while-loop应用于无限循环。
     2. 在其它所有循环情况下使用for-loop，尤其是有一个确定的或限定的范围需要遍历时。
 
