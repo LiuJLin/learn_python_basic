@@ -10,4 +10,4 @@
 
 2. ex35.py
 -----------------
-    
+![Map of the game](https://github.com/LiuJLin/learn_python_basic/blob/master/MakeChoice_ex35.png?raw=true)    
