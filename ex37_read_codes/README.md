@@ -3,7 +3,6 @@
 <br />
 
 ## 1. Command_line_IMDB_Scraper
----------------------------
 ### 准备工作：
 #### 下载
 由于需要用到beautifulsoup，因此首先去下载。<br />
