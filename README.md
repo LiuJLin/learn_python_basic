@@ -33,3 +33,5 @@ ex37_read_codes里面是在网上找到的一些示例。
 ### Symbols
   [here:](https://learnpythonthehardway.org/book/ex37.html)
 <br />
+# struc:对于Python内置类型的学习过程
+详见该目录下的README.
